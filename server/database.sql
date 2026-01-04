@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS healthtrack;
-USE healthtrack;
+-- CREATE DATABASE IF NOT EXISTS healthtrack;
+-- USE healthtrack;
 
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
